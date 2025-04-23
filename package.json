@@ -9,11 +9,5 @@
   },
   "keywords": [],
   "author": "Vendicated",
-  "license": "ISC",
-  "dependencies": {
-    "esbuild": "^0.15.12"
-  },
-  "devDependencies": {
-    "@types/node": "^18.11.6"
-  }
+  "license": "ISC"
 }
